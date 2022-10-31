@@ -1,0 +1,11 @@
+,name,lat,lon,category,type
+0,State Farm Arena,33.757154,-84.396308,Stadium,"{'typepoint': {'type': 'Point', 'coordinates': [33.757154, -84.396308]}}"
+1,GSU Sports Arena,33.751682,-84.386252,Stadium,"{'typepoint': {'type': 'Point', 'coordinates': [33.751682, -84.386252]}}"
+2,1280 West Basketball Court,33.789504,-84.389018,Basketball Court,"{'typepoint': {'type': 'Point', 'coordinates': [33.789504, -84.389018]}}"
+4,Piedmont Park,33.78427,-84.373798,Park,"{'typepoint': {'type': 'Point', 'coordinates': [33.78427, -84.373798]}}"
+5,"Piedmont Park ""Noguchi Playscapes"" Playground",33.784921,-84.377535,Playground,"{'typepoint': {'type': 'Point', 'coordinates': [33.784921, -84.377535]}}"
+8,Basketball Courts,33.765766,-84.338588,Basketball Court,"{'typepoint': {'type': 'Point', 'coordinates': [33.765766, -84.338588]}}"
+13,Zelnak Basketball Center,33.779195,-84.390248,College Basketball Court,"{'typepoint': {'type': 'Point', 'coordinates': [33.779195, -84.390248]}}"
+14,Haygood Hoops,33.796652,-84.353992,Basketball Court,"{'typepoint': {'type': 'Point', 'coordinates': [33.796652, -84.353992]}}"
+18,Basketball Courts,33.779402,-84.405566,College Basketball Court,"{'typepoint': {'type': 'Point', 'coordinates': [33.779402, -84.405566]}}"
+23,OTE Arena,33.790736,-84.396583,Stadium,"{'typepoint': {'type': 'Point', 'coordinates': [33.790736, -84.396583]}}"

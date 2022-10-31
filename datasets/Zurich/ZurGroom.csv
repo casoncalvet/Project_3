@@ -1,0 +1,4 @@
+,name,lat,lon,category,type,geometry
+0,Hundesalon Top Dog,47.36167,8.550758,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [47.36167, 8.550758]}}",POINT (8.550758 47.36167)
+1,Petits Amis Tierbedarfsladen,47.361763,8.559924,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [47.361763, 8.559924]}}",POINT (8.559924 47.361763)
+2,Hundeshop Carlos GmbH,47.361763,8.559924,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [47.361763, 8.559924]}}",POINT (8.559924 47.361763)

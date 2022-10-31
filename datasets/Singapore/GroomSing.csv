@@ -1,0 +1,12 @@
+,name,lat,lon,category,type,geometry
+0,Very Important Pets Pawlour,1.336287,103.848363,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [1.336287, 103.848363]}}",POINT (103.848363 1.336287)
+1,Mad About Grooming,1.321322,103.85265,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [1.321322, 103.85265]}}",POINT (103.85265 1.321322)
+2,Fluffy Petcare,1.361468,103.852126,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [1.361468, 103.852126]}}",POINT (103.852126 1.361468)
+3,Animal Arts Academy at Serangoon Garden,1.364886,103.86602,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [1.364886, 103.86602]}}",POINT (103.86602 1.364886)
+4,Happy Dog,1.331116,103.796097,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [1.331116, 103.796097]}}",POINT (103.796097 1.331116)
+5,Surrpaws,1.345625,103.882531,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [1.345625, 103.882531]}}",POINT (103.882531 1.345625)
+6,A Dog's Life Pet Salon,1.283512,103.834542,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [1.283512, 103.834542]}}",POINT (103.834542 1.283512)
+7,The Grooming Table,1.287245,103.813379,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [1.287245, 103.813379]}}",POINT (103.813379 1.287245)
+8,Petopia,1.383385,103.875599,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [1.383385, 103.875599]}}",POINT (103.875599 1.383385)
+9,Dollhouse Pets,1.277195,103.836846,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [1.277195, 103.836846]}}",POINT (103.836846 1.277195)
+10,The Pawlour - Hougang,1.367493,103.890011,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [1.367493, 103.890011]}}",POINT (103.890011 1.367493)

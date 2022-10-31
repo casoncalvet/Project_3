@@ -1,0 +1,5 @@
+,name,lat,lon,category,type
+0,Basketballplatz Bäckeranlage,47.378181,8.522276,Basketball Court,"{'typepoint': {'type': 'Point', 'coordinates': [47.378181, 8.522276]}}"
+1,Basketballplatz Sihlfeld,47.372356,8.512195,Basketball Court,"{'typepoint': {'type': 'Point', 'coordinates': [47.372356, 8.512195]}}"
+2,Basketballplatz Waidhalle,47.396857,8.526488,Basketball Court,"{'typepoint': {'type': 'Point', 'coordinates': [47.396857, 8.526488]}}"
+4,Rösli,47.388269,8.541889,Basketball Court,"{'typepoint': {'type': 'Point', 'coordinates': [47.388269, 8.541889]}}"

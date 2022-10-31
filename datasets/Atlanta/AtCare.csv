@@ -1,0 +1,12 @@
+,name,lat,lon,category,type
+0,The Goddard School,33.784033,-84.389623,Primary and Secondary School,"{'typepoint': {'type': 'Point', 'coordinates': [33.784033, -84.389623]}}"
+1,R. Kirk Landon Learning Center,33.782534,-84.400247,Community and Government,"{'typepoint': {'type': 'Point', 'coordinates': [33.782534, -84.400247]}}"
+2,Primrose School of Midtown at Colony Square,33.786815,-84.3827,Community and Government,"{'typepoint': {'type': 'Point', 'coordinates': [33.786815, -84.3827]}}"
+3,Bright Horizons at Atlantic Station,33.792606,-84.394503,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [33.792606, -84.394503]}}"
+4,Sarita's Playpen,33.74641,-84.379542,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [33.74641, -84.379542]}}"
+5,Primrose School of Grant Park,33.74617,-84.370781,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [33.74617, -84.370781]}}"
+6,Imagination Station,33.810347,-84.41621,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [33.810347, -84.41621]}}"
+14,Worderland Day Care,33.768707,-84.392836,Child Care Service,"{'typepoint': {'type': 'Point', 'coordinates': [33.768707, -84.392836]}}"
+16,Hollywood Day Care Center,33.770976,-84.418874,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [33.770976, -84.418874]}}"
+19,Hill Street Day Care,33.741924,-84.37935,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [33.741924, -84.37935]}}"
+21,Marchail S Daycare,33.74964,-84.430515,Child Care Service,"{'typepoint': {'type': 'Point', 'coordinates': [33.74964, -84.430515]}}"

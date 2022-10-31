@@ -1,0 +1,187 @@
+Unnamed: 0,name,lat,lon,category,type,geometry,thingsaround
+0,TallyFox Social Technologies AG,47.369714,8.545559,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.369714, 8.545559]}}",POINT (8.545559 47.369714),25
+1,DCTRL — Studio For Creative Technology,47.380275,8.536201,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.380275, 8.536201]}}",POINT (8.536201 47.380275),25
+3,Dpi Publishing,47.366376,8.549064,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.366376, 8.549064]}}",POINT (8.549064 47.366376),25
+4,Quentiq,47.364702,8.549989,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.364702, 8.549989]}}",POINT (8.549989 47.364702),25
+5,Semacle AG,47.364528,8.549349,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.364528, 8.549349]}}",POINT (8.549349 47.364528),25
+6,Ampard AG,47.368938,8.549964,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.368938, 8.549964]}}",POINT (8.549964 47.368938),25
+7,Advandoo,47.363527,8.550046,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.363527, 8.550046]}}",POINT (8.550046 47.363527),25
+10,R3Pi-Z,47.362072,8.548436,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.362072, 8.548436]}}",POINT (8.548436 47.362072),25
+11,Clubzone,47.359697,8.551911,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.359697, 8.551911]}}",POINT (8.551911 47.359697),25
+12,ElectricFeel AG,47.359203,8.54819,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.359203, 8.54819]}}",POINT (8.54819 47.359203),25
+13,Dealmarket HQ,47.37206,8.541802,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.37206, 8.541802]}}",POINT (8.541802 47.37206),25
+14,UZH WorkSpace,47.375567,8.545088,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.375567, 8.545088]}}",POINT (8.545088 47.375567),25
+15,Publisheria HQ,47.362025,8.562445,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.362025, 8.562445]}}",POINT (8.562445 47.362025),25
+16,Management Tools AG,47.375382,8.542793,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.375382, 8.542793]}}",POINT (8.542793 47.375382),25
+17,Moca AG,47.376451,8.544312,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.376451, 8.544312]}}",POINT (8.544312 47.376451),25
+18,Kublé Lake,47.36159,8.536576,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.36159, 8.536576]}}",POINT (8.536576 47.36159),25
+19,Ticketpark Zurich Office,47.376972,8.54467,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.376972, 8.54467]}}",POINT (8.54467 47.376972),25
+20,Scandit HQ,47.378131,8.549631,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.378131, 8.549631]}}",POINT (8.549631 47.378131),25
+21,Sprinklr Switzerland,47.371716,8.534371,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.371716, 8.534371]}}",POINT (8.534371 47.371716),25
+22,New Relic,47.376081,8.539722,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.376081, 8.539722]}}",POINT (8.539722 47.376081),25
+24,OTO Switzerland GmbH,47.36328,8.566778,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.36328, 8.566778]}}",POINT (8.566778 47.36328),25
+26,Starmind,47.369038,8.532872,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.369038, 8.532872]}}",POINT (8.532872 47.369038),25
+27,42matters AG,47.369866,8.532576,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.369866, 8.532576]}}",POINT (8.532576 47.369866),25
+28,Rondevoo GmbH,47.378714,8.555755,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.378714, 8.555755]}}",POINT (8.555755 47.378714),25
+29,Habitusnet Consulting AG,47.379329,8.543609,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.379329, 8.543609]}}",POINT (8.543609 47.379329),25
+30,Spocal,47.38043,8.54749,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.38043, 8.54749]}}",POINT (8.54749 47.38043),25
+31,Doodle HQ,47.372203,8.530808,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.372203, 8.530808]}}",POINT (8.530808 47.372203),25
+33,SBBincubator,47.377059,8.535196,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.377059, 8.535196]}}",POINT (8.535196 47.377059),25
+35,Shortcut Media AG,47.376701,8.533823,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.376701, 8.533823]}}",POINT (8.533823 47.376701),25
+36,futuretek GmbH,47.376653,8.533356,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.376653, 8.533356]}}",POINT (8.533356 47.376653),25
+37,Lunchgate AG,47.360962,8.570814,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.360962, 8.570814]}}",POINT (8.570814 47.360962),25
+38,Amphiro AG,47.381745,8.54415,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.381745, 8.54415]}}",POINT (8.54415 47.381745),25
+39,Fineware,47.361444,8.572361,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.361444, 8.572361]}}",POINT (8.572361 47.361444),25
+40,Siroop,47.374562,8.530787,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.374562, 8.530787]}}",POINT (8.530787 47.374562),25
+41,BEN Energy Office,47.382487,8.545095,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.382487, 8.545095]}}",POINT (8.545095 47.382487),25
+42,VIU - Framing Characters,47.372651,8.52635,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.372651, 8.52635]}}",POINT (8.52635 47.372651),25
+44,Qoqa,47.382685,8.54029,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.382685, 8.54029]}}",POINT (8.54029 47.382685),25
+45,Uber Switzerland HQ,47.351192,8.561473,Technology Business,"{'typepoint': {'type': 'Point', 'coordinates': [47.351192, 8.561473]}}",POINT (8.561473 47.351192),25
+0,Ginetta Web/Mobile,47.374809,8.528531,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.374809, 8.528531]}}",POINT (8.528531 47.374809),25
+3,Update,47.365163,8.548227,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.365163, 8.548227]}}",POINT (8.548227 47.365163),25
+4,MetaDesign,47.367027,8.546881,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.367027, 8.546881]}}",POINT (8.546881 47.367027),25
+5,Geissbühler,47.366239,8.545675,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.366239, 8.545675]}}",POINT (8.545675 47.366239),25
+6,heimoto AG,47.363626,8.553061,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.363626, 8.553061]}}",POINT (8.553061 47.363626),25
+7,Hugo Peters,47.368721,8.544267,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.368721, 8.544267]}}",POINT (8.544267 47.368721),25
+11,Einzigart im Seefeld,47.360015,8.55239,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.360015, 8.55239]}}",POINT (8.55239 47.360015),25
+12,Blickfang,47.365693,8.538365,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.365693, 8.538365]}}",POINT (8.538365 47.365693),25
+14,Fotoplast,47.367637,8.537452,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.367637, 8.537452]}}",POINT (8.537452 47.367637),25
+15,Modestrom,47.360564,8.552509,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.360564, 8.552509]}}",POINT (8.552509 47.360564),25
+16,biscuitfabrik by Atelier Zürich,47.358264,8.553609,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.358264, 8.553609]}}",POINT (8.553609 47.358264),25
+17,Schweizer Heimatwerk Genossenschaft,47.374254,8.541756,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.374254, 8.541756]}}",POINT (8.541756 47.374254),25
+18,Decolargo Showroom,47.357735,8.554718,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.357735, 8.554718]}}",POINT (8.554718 47.357735),25
+19,Enea,47.374638,8.540287,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.374638, 8.540287]}}",POINT (8.540287 47.374638),25
+20,NAVYBOOT Shop,47.374203,8.538167,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.374203, 8.538167]}}",POINT (8.538167 47.374203),25
+21,Biscuitfabrik,47.365207,8.533697,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.365207, 8.533697]}}",POINT (8.533697 47.365207),25
+22,Blondino,47.365092,8.533618,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.365092, 8.533618]}}",POINT (8.533618 47.365092),25
+23,Atelierzürich,47.365063,8.533337,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.365063, 8.533337]}}",POINT (8.533337 47.365063),25
+24,Selection 1847,47.374394,8.536392,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.374394, 8.536392]}}",POINT (8.536392 47.374394),25
+25,The ApartmentStore,47.373111,8.53386,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.373111, 8.53386]}}",POINT (8.53386 47.373111),25
+26,Landesmuseum Boutique,47.378999,8.540955,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.378999, 8.540955]}}",POINT (8.540955 47.378999),25
+27,Fotostudio Annabelle,47.373462,8.528469,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.373462, 8.528469]}}",POINT (8.528469 47.373462),25
+28,Zwei 25,47.373007,8.526162,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.373007, 8.526162]}}",POINT (8.526162 47.373007),25
+35,Icon Worldwide,47.365653,8.536951,Design Studio,"{'typepoint': {'type': 'Point', 'coordinates': [47.365653, 8.536951]}}",POINT (8.536951 47.365653),25
+0,Starbucks,47.366481,8.548446,Coffee Shop,"{'typepoint': {'type': 'Point', 'coordinates': [47.366481, 8.548446]}}",POINT (8.548446 47.366481),25
+1,Starbucks,47.371447,8.557069,Coffee Shop,"{'typepoint': {'type': 'Point', 'coordinates': [47.371447, 8.557069]}}",POINT (8.557069 47.371447),25
+2,Starbucks,47.367857,8.535957,Coffee Shop,"{'typepoint': {'type': 'Point', 'coordinates': [47.367857, 8.535957]}}",POINT (8.535957 47.367857),25
+3,Starbucks,47.373182,8.537636,Coffee Shop,"{'typepoint': {'type': 'Point', 'coordinates': [47.373182, 8.537636]}}",POINT (8.537636 47.373182),25
+4,Starbucks,47.378012,8.535073,Café,"{'typepoint': {'type': 'Point', 'coordinates': [47.378012, 8.535073]}}",POINT (8.535073 47.378012),25
+5,Starbucks,47.38018,8.537348,Coffee Shop,"{'typepoint': {'type': 'Point', 'coordinates': [47.38018, 8.537348]}}",POINT (8.537348 47.38018),25
+6,Starbucks,47.373454,8.529936,Bistro,"{'typepoint': {'type': 'Point', 'coordinates': [47.373454, 8.529936]}}",POINT (8.529936 47.373454),25
+7,Starbucks,47.378363,8.539682,Coffee Shop,"{'typepoint': {'type': 'Point', 'coordinates': [47.378363, 8.539682]}}",POINT (8.539682 47.378363),25
+8,Starbucks Coffee Switzerland,47.36623,8.547143,Bistro,"{'typepoint': {'type': 'Point', 'coordinates': [47.36623, 8.547143]}}",POINT (8.547143 47.36623),25
+9,Starbucks,47.373578,8.538862,Coffee Shop,"{'typepoint': {'type': 'Point', 'coordinates': [47.373578, 8.538862]}}",POINT (8.538862 47.373578),25
+10,Starbucks,47.378098,8.534873,Bakery,"{'typepoint': {'type': 'Point', 'coordinates': [47.378098, 8.534873]}}",POINT (8.534873 47.378098),25
+11,Starbucks,47.364503,8.532085,Coffee Shop,"{'typepoint': {'type': 'Point', 'coordinates': [47.364503, 8.532085]}}",POINT (8.532085 47.364503),25
+12,Starbucks Coffee,47.368096,8.544963,Bistro,"{'typepoint': {'type': 'Point', 'coordinates': [47.368096, 8.544963]}}",POINT (8.544963 47.368096),25
+13,Starbucks Coffee Switzerland AG,47.364772,8.553765,Bistro,"{'typepoint': {'type': 'Point', 'coordinates': [47.364772, 8.553765]}}",POINT (8.553765 47.364772),25
+14,Starbucks,47.376592,8.539988,Café,"{'typepoint': {'type': 'Point', 'coordinates': [47.376592, 8.539988]}}",POINT (8.539988 47.376592),25
+15,Starbucks Coffee,47.376557,8.544298,Bistro,"{'typepoint': {'type': 'Point', 'coordinates': [47.376557, 8.544298]}}",POINT (8.544298 47.376557),25
+16,Starbucks Coffee Switzerland AG,47.364772,8.553765,Bistro,"{'typepoint': {'type': 'Point', 'coordinates': [47.364772, 8.553765]}}",POINT (8.553765 47.364772),25
+17,Starbucks,47.373578,8.538862,Coffee Shop,"{'typepoint': {'type': 'Point', 'coordinates': [47.373578, 8.538862]}}",POINT (8.538862 47.373578),25
+18,Starbucks Coffee,47.376557,8.544298,Bistro,"{'typepoint': {'type': 'Point', 'coordinates': [47.376557, 8.544298]}}",POINT (8.544298 47.376557),25
+19,Starbucks,47.364503,8.532085,Coffee Shop,"{'typepoint': {'type': 'Point', 'coordinates': [47.364503, 8.532085]}}",POINT (8.532085 47.364503),25
+20,Starbucks,47.378098,8.534873,Bakery,"{'typepoint': {'type': 'Point', 'coordinates': [47.378098, 8.534873]}}",POINT (8.534873 47.378098),25
+21,Starbucks coffee corner,47.376706,8.548821,Coffee Shop,"{'typepoint': {'type': 'Point', 'coordinates': [47.376706, 8.548821]}}",POINT (8.548821 47.376706),25
+22,Starbucks Coffee Switzerland AG - Standort Zürich Rennweg,47.373713,8.539129,Bistro,"{'typepoint': {'type': 'Point', 'coordinates': [47.373713, 8.539129]}}",POINT (8.539129 47.373713),25
+23,Starbucks Coffee Switzerland AG - Standort Zürich Kramhof (Orell Füssli),47.373182,8.537636,Bistro,"{'typepoint': {'type': 'Point', 'coordinates': [47.373182, 8.537636]}}",POINT (8.537636 47.373182),25
+24,Starbucks Coffee Switzerland AG - Standort Zürich Tessinerplatz,47.364792,8.531764,Bistro,"{'typepoint': {'type': 'Point', 'coordinates': [47.364792, 8.531764]}}",POINT (8.531764 47.364792),25
+25,Starbucks Coffee Switzerland AG - Standort Zürich Limmatstrasse,47.380228,8.537295,Bistro,"{'typepoint': {'type': 'Point', 'coordinates': [47.380228, 8.537295]}}",POINT (8.537295 47.380228),25
+0,GFZ Kita 7,47.371631,8.558844,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.371631, 8.558844]}}",POINT (8.558844 47.371631),25
+1,Sunshine Kinderkrippe,47.369584,8.564454,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.369584, 8.564454]}}",POINT (8.564454 47.369584),25
+2,Kinderkrippe Zürich globegarden,47.362877,8.533478,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.362877, 8.533478]}}",POINT (8.533478 47.362877),25
+4,Kinderkrippe Seefeld globegarden,47.354261,8.557436,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.354261, 8.557436]}}",POINT (8.557436 47.354261),25
+5,Pika Kinderkrippe,47.359747,8.532273,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.359747, 8.532273]}}",POINT (8.532273 47.359747),25
+6,Kids & Co Campus Pädagogische Hochschule Zürich,47.376701,8.533823,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.376701, 8.533823]}}",POINT (8.533823 47.376701),25
+7,Bildungszentrum Matrjoschka,47.382518,8.546416,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.382518, 8.546416]}}",POINT (8.546416 47.382518),25
+8,Alexi's Kinderkrippe GmbH,47.360233,8.527149,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.360233, 8.527149]}}",POINT (8.527149 47.360233),25
+0,Abflüge.Ankünfte.Check-in.Tickets.Auskunft.de.com,47.369381,8.538741,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.369381, 8.538741]}}",POINT (8.538741 47.369381),25
+1,24h Flughafen Auskunft,47.369323,8.538702,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.369323, 8.538702]}}",POINT (8.538702 47.369323),25
+2,24h Kloten Zürich Airport,47.369323,8.538702,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.369323, 8.538702]}}",POINT (8.538702 47.369323),25
+3,24h Aviation Information,47.369929,8.53886,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.369929, 8.53886]}}",POINT (8.53886 47.369929),25
+4,SWISS International Air Lines AG,47.370343,8.538712,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.370343, 8.538712]}}",POINT (8.538712 47.370343),25
+5,Malaysia Airlines,47.372722,8.539919,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.372722, 8.539919]}}",POINT (8.539919 47.372722),25
+6,Air China,47.372554,8.53521,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.372554, 8.53521]}}",POINT (8.53521 47.372554),25
+7,Singapore Airlines Ltd,47.376494,8.538013,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.376494, 8.538013]}}",POINT (8.538013 47.376494),25
+8,Aero Lines GmbH,47.381897,8.54096,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.381897, 8.54096]}}",POINT (8.54096 47.381897),25
+9,US Airways,47.360244,8.549428,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.360244, 8.549428]}}",POINT (8.549428 47.360244),25
+10,Kosova Airlines-KSA Pristina Zweigniederlassung Zürich,47.36812,8.539519,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.36812, 8.539519]}}",POINT (8.539519 47.36812),25
+11,"Qatar Airways, Doha/qatar, Zweigniederlassung Zürich",47.367974,8.537078,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.367974, 8.537078]}}",POINT (8.537078 47.367974),25
+12,TAP Air Portugal,47.376019,8.545314,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.376019, 8.545314]}}",POINT (8.545314 47.376019),25
+13,Turkish Airlines,47.370389,8.536057,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.370389, 8.536057]}}",POINT (8.536057 47.370389),25
+14,US Airways,47.369319,8.534539,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.369319, 8.534539]}}",POINT (8.534539 47.369319),25
+15,Aeroflot Russian Airlines,47.371986,8.534904,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.371986, 8.534904]}}",POINT (8.534904 47.371986),25
+16,Air India,47.372419,8.534943,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.372419, 8.534943]}}",POINT (8.534943 47.372419),25
+17,Malaysian Airlines,47.376727,8.540775,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.376727, 8.540775]}}",POINT (8.540775 47.376727),25
+18,American Airlines,47.373045,8.534768,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.373045, 8.534768]}}",POINT (8.534768 47.373045),25
+19,CSA Czech Airlines,47.374046,8.535632,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.374046, 8.535632]}}",POINT (8.535632 47.374046),25
+20,Japan Air Lines Co Ltd,47.37263,8.533875,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.37263, 8.533875]}}",POINT (8.533875 47.37263),25
+21,Iberia,47.374412,8.535538,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.374412, 8.535538]}}",POINT (8.535538 47.374412),25
+22,EL AL Israel Airlines Ltd,47.374402,8.535444,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.374402, 8.535444]}}",POINT (8.535444 47.374402),25
+23,TAM Brasiliens Fluglinie,47.374817,8.535817,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.374817, 8.535817]}}",POINT (8.535817 47.374817),25
+24,British Airways,47.374817,8.535817,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.374817, 8.535817]}}",POINT (8.535817 47.374817),25
+25,SAA South African Airways,47.374749,8.535683,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.374749, 8.535683]}}",POINT (8.535683 47.374749),25
+26,Adria Airways,47.376263,8.537854,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.376263, 8.537854]}}",POINT (8.537854 47.376263),25
+27,Air New Zealand,47.376388,8.538027,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.376388, 8.538027]}}",POINT (8.538027 47.376388),25
+28,Avianca,47.377216,8.538251,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.377216, 8.538251]}}",POINT (8.538251 47.377216),25
+29,Deutsche Lufthansa AG,47.365474,8.530588,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.365474, 8.530588]}}",POINT (8.530588 47.365474),25
+30,Varig Brasiliens Fluglinie,47.376772,8.537078,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.376772, 8.537078]}}",POINT (8.537078 47.376772),25
+31,"Singapore Airlines Limited, Singapore, Zurich Branch",47.37729,8.535355,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.37729, 8.535355]}}",POINT (8.535355 47.37729),25
+32,"Japan Airlines Co, Ltd",47.380589,8.542832,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.380589, 8.542832]}}",POINT (8.542832 47.380589),25
+33,"Japan Airlines Co, Ltd",47.380589,8.542832,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.380589, 8.542832]}}",POINT (8.542832 47.380589),25
+34,Lan Chile,47.373502,8.530403,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.373502, 8.530403]}}",POINT (8.530403 47.373502),25
+35,Air Madagascar,47.373502,8.530403,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.373502, 8.530403]}}",POINT (8.530403 47.373502),25
+36,TAM Airlines,47.371379,8.524953,Airport,"{'typepoint': {'type': 'Point', 'coordinates': [47.371379, 8.524953]}}",POINT (8.524953 47.371379),25
+0,Bar am Wasser,47.367515,8.541442,Cocktail Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.367515, 8.541442]}}",POINT (8.541442 47.367515),25
+1,Drinx Bar,47.363747,8.54751,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.363747, 8.54751]}}",POINT (8.54751 47.363747),25
+2,Old Fashion Bar,47.368776,8.540664,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.368776, 8.540664]}}",POINT (8.540664 47.368776),25
+3,Grande Café & Bar,47.375505,8.543284,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.375505, 8.543284]}}",POINT (8.543284 47.375505),25
+4,Totò - Ristorante e Bar,47.358023,8.553877,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.358023, 8.553877]}}",POINT (8.553877 47.358023),25
+5,Rimini Bar,47.371618,8.532917,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.371618, 8.532917]}}",POINT (8.532917 47.371618),25
+6,Safari Bar,47.375604,8.544421,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.375604, 8.544421]}}",POINT (8.544421 47.375604),25
+7,Collana Bar e Caffè,47.365903,8.54657,Restaurant,"{'typepoint': {'type': 'Point', 'coordinates': [47.365903, 8.54657]}}",POINT (8.54657 47.365903),25
+8,Rio Bar,47.376213,8.535826,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.376213, 8.535826]}}",POINT (8.535826 47.376213),25
+9,Ebrietas Bar,47.375816,8.544394,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.375816, 8.544394]}}",POINT (8.544394 47.375816),25
+10,01 Bar,47.373851,8.543038,Lounge,"{'typepoint': {'type': 'Point', 'coordinates': [47.373851, 8.543038]}}",POINT (8.543038 47.373851),25
+11,ALMODOBAR - Café Bar Restaurant,47.366872,8.533199,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.366872, 8.533199]}}",POINT (8.533199 47.366872),25
+12,Bar 45,47.371902,8.538227,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.371902, 8.538227]}}",POINT (8.538227 47.371902),25
+13,Barfussbar,47.368286,8.542147,Music Venue,"{'typepoint': {'type': 'Point', 'coordinates': [47.368286, 8.542147]}}",POINT (8.542147 47.368286),25
+14,Kronenhalle Bar,47.367697,8.545756,Cocktail Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.367697, 8.545756]}}",POINT (8.545756 47.367697),25
+15,Hafenkneipe,47.376287,8.53345,Concert Hall,"{'typepoint': {'type': 'Point', 'coordinates': [47.376287, 8.53345]}}",POINT (8.53345 47.376287),25
+16,Bar Nocciolina,47.368271,8.53633,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.368271, 8.53633]}}",POINT (8.53633 47.368271),25
+17,El Lokal,47.374256,8.533523,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.374256, 8.533523]}}",POINT (8.533523 47.374256),25
+18,Rosaly's Restaurant & Bar,47.367481,8.545752,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.367481, 8.545752]}}",POINT (8.545752 47.367481),25
+19,Talacker,47.37187,8.534825,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.37187, 8.534825]}}",POINT (8.534825 47.37187),25
+20,Le Raymond Bar,47.368821,8.537489,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.368821, 8.537489]}}",POINT (8.537489 47.368821),25
+21,Time,47.377766,8.539411,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.377766, 8.539411]}}",POINT (8.539411 47.377766),25
+22,Kon-Tiki,47.373775,8.543852,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.373775, 8.543852]}}",POINT (8.543852 47.373775),25
+23,Atelier Bar,47.37039,8.537618,Cocktail Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.37039, 8.537618]}}",POINT (8.537618 47.37039),25
+24,Mövenpick Wein-Bar,47.371016,8.537442,Wine Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.371016, 8.537442]}}",POINT (8.537442 47.371016),25
+25,Tales Bar,47.372937,8.5327,Cocktail Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.372937, 8.5327]}}",POINT (8.5327 47.372937),25
+26,Onyx Bar,47.366644,8.536161,Hotel Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.366644, 8.536161]}}",POINT (8.536161 47.366644),25
+27,Aelpli Bar,47.371358,8.543312,Pub,"{'typepoint': {'type': 'Point', 'coordinates': [47.371358, 8.543312]}}",POINT (8.543312 47.371358),25
+28,Griederbar,47.370469,8.539405,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.370469, 8.539405]}}",POINT (8.539405 47.370469),25
+29,Big Ben Pub,47.375084,8.544062,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.375084, 8.544062]}}",POINT (8.544062 47.375084),25
+30,Baryton Music-Bar,47.376176,8.538054,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.376176, 8.538054]}}",POINT (8.538054 47.376176),25
+31,Dada Bar,47.375854,8.543726,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.375854, 8.543726]}}",POINT (8.543726 47.375854),25
+32,Baradox,47.372879,8.53318,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.372879, 8.53318]}}",POINT (8.53318 47.372879),25
+33,Kunsthaus Bar,47.370732,8.549165,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.370732, 8.549165]}}",POINT (8.549165 47.370732),25
+34,Cigar-Bar,47.371251,8.541765,Hotel Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.371251, 8.541765]}}",POINT (8.541765 47.371251),25
+35,Bang-On,47.374033,8.531896,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.374033, 8.531896]}}",POINT (8.531896 47.374033),25
+36,Lenox Bar,47.382685,8.54029,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.382685, 8.54029]}}",POINT (8.54029 47.382685),25
+37,Kater,47.378344,8.530015,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.378344, 8.530015]}}",POINT (8.530015 47.378344),25
+38,La Stanza,47.368474,8.536729,Cocktail Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.368474, 8.536729]}}",POINT (8.536729 47.368474),25
+39,Café Odéon,47.367702,8.545297,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.367702, 8.545297]}}",POINT (8.545297 47.367702),25
+40,Old Crow,47.372146,8.541082,Cocktail Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.372146, 8.541082]}}",POINT (8.541082 47.372146),25
+41,Bohemia,47.364735,8.554953,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.364735, 8.554953]}}",POINT (8.554953 47.364735),25
+42,Kronenhalle,47.367471,8.545658,Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.367471, 8.545658]}}",POINT (8.545658 47.367471),25
+43,BarMünster,47.371802,8.543965,Cocktail Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.371802, 8.543965]}}",POINT (8.543965 47.371802),25
+44,Widder Bar,47.372337,8.539827,Hotel Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.372337, 8.539827]}}",POINT (8.539827 47.372337),25
+45,Widder Garage,47.371711,8.540002,Cocktail Bar,"{'typepoint': {'type': 'Point', 'coordinates': [47.371711, 8.540002]}}",POINT (8.540002 47.371711),25
+46,Imbiss Riviera,47.367557,8.544417,Dining and Drinking,"{'typepoint': {'type': 'Point', 'coordinates': [47.367557, 8.544417]}}",POINT (8.544417 47.367557),25
+47,Terrasse,47.367778,8.544483,Lounge,"{'typepoint': {'type': 'Point', 'coordinates': [47.367778, 8.544483]}}",POINT (8.544483 47.367778),25
+48,Restaurant Nelson,47.375889,8.539936,Lounge,"{'typepoint': {'type': 'Point', 'coordinates': [47.375889, 8.539936]}}",POINT (8.539936 47.375889),25
+49,Razzia,47.360833,8.551481,Restaurant,"{'typepoint': {'type': 'Point', 'coordinates': [47.360833, 8.551481]}}",POINT (8.551481 47.360833),25
+0,Hundesalon Top Dog,47.36167,8.550758,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [47.36167, 8.550758]}}",POINT (8.550758 47.36167),25
+1,Petits Amis Tierbedarfsladen,47.361763,8.559924,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [47.361763, 8.559924]}}",POINT (8.559924 47.361763),25
+2,Hundeshop Carlos GmbH,47.361763,8.559924,Pet Grooming Service,"{'typepoint': {'type': 'Point', 'coordinates': [47.361763, 8.559924]}}",POINT (8.559924 47.361763),25

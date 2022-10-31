@@ -1,0 +1,9 @@
+,name,lat,lon,category,type,geometry
+0,GFZ Kita 7,47.371631,8.558844,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.371631, 8.558844]}}",POINT (8.558844 47.371631)
+1,Sunshine Kinderkrippe,47.369584,8.564454,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.369584, 8.564454]}}",POINT (8.564454 47.369584)
+2,Kinderkrippe Zürich globegarden,47.362877,8.533478,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.362877, 8.533478]}}",POINT (8.533478 47.362877)
+4,Kinderkrippe Seefeld globegarden,47.354261,8.557436,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.354261, 8.557436]}}",POINT (8.557436 47.354261)
+5,Pika Kinderkrippe,47.359747,8.532273,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.359747, 8.532273]}}",POINT (8.532273 47.359747)
+6,Kids & Co Campus Pädagogische Hochschule Zürich,47.376701,8.533823,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.376701, 8.533823]}}",POINT (8.533823 47.376701)
+7,Bildungszentrum Matrjoschka,47.382518,8.546416,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.382518, 8.546416]}}",POINT (8.546416 47.382518)
+8,Alexi's Kinderkrippe GmbH,47.360233,8.527149,Daycare,"{'typepoint': {'type': 'Point', 'coordinates': [47.360233, 8.527149]}}",POINT (8.527149 47.360233)
