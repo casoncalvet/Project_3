@@ -108,7 +108,7 @@ def Sing_Map():
         Layer(Sing_geoGroom, 'color:brown', popup_hover=[popup_element("name")])
     ])
     return Sing_Map
-
+ 
 def At_Map(): 
     """
     Returns the Map of Atlanta with desired conditions queried from Foursquare
@@ -191,6 +191,7 @@ def connect_to_Zurich(localhost):
     client = pymongo.MongoClient(localhost)
     db = client.get_database("Ironhack")
     return db.get_collection("Zur_Cond")
+
 
 def get_closeby_things (location, max_distance):
 
